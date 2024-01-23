@@ -1,0 +1,13 @@
+Fitur pada ADMIN : 
+1. Menambahkan data calon mahasiswa baru (cmb)
+	-> Buat formulir pendaftaran
+	-> Buat akun cmb untuk login
+2. Menambahkan data  soal untuk ujian (CBT)
+	-> Buat soal CBT beserta jawabannya
+
+
+Fitur pada CMB :
+1. Melakukan Registrasi/Login
+2. Mengisi formulir pendaftaran
+3. Melengkapi syarat pendaftaran dan pembayaran
+4. Mengerjakan soal CBT
